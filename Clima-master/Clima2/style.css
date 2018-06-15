@@ -1,0 +1,50 @@
+body{
+	background-color:blue;
+	
+}
+
+.titulo{
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	font-family: arial;
+}
+
+.texto{
+	margin: 10px auto;
+	display: block;
+}
+
+.centrado{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	font-family: arial;
+	color: white;
+	font-size: 20px;
+}
+
+.centrados{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	font-family: arial;
+	color: black;
+	font-size: 20px;
+}
+
+.estilo{
+	border-style: groove;
+	border-width: 10px;
+	border-radius: 50px;
+	height: 600px;
+	width: 550px;
+	border-color: black;
+	margin-top: -255px;
+	margin-left: -375px;
+	left: 60%;
+	top: 40%;
+	position: absolute;
+}
+
+
